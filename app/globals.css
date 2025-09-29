@@ -24,3 +24,19 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+li {
+  margin: 10px;
+  font-size: 25px;
+  color: maroon;
+}
+
+li:hover {
+  color: white;
+}
+
+.resumeSection {
+  font-size: 20px;
+  font-weight: bold;
+  color: maroon;
+}
